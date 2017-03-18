@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Laboratorio Fragmento</string>
+    <string name="str_parrafo">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A ab asperiores consectetur cumque, distinctio eius, facere, fuga iusto modi nihil non nostrum omnis possimus praesentium quaerat quo sequi tempore tenetur?</string>
+    <string name="str_titulo">Mi Primer Fragmento</string>
+</resources>
